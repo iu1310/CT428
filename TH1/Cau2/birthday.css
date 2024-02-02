@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.trai {
+    height: 100%;
+    width: 30%;
+    margin-right: auto;
+}
+
+.trai img {
+    height: 400px;
+    width: 400px;
+}

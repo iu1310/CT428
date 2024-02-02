@@ -1,0 +1,32 @@
+* {
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.giua {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    border-radius: 5px;
+    background-color: blue;
+    height: 100%;
+    width: 30%;
+}
+
+#khung {
+    border-radius: 50px;
+    background-color: rgb(115, 220, 244);
+    padding: 10%;
+
+}
+
+#khung img {
+    position: relative;
+    left: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 250px;
+
+}
